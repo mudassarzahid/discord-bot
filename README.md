@@ -1,2 +1,2 @@
 # discord-bot
-A bot that greets you with 'Hello!'
+A bot that replies to <i>!hello</i> messages with <i>Hello!</i>.
